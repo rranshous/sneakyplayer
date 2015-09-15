@@ -1,0 +1,15 @@
+example player for war of game (warofgameonline.com)
+
+to test:
+
+you must have docker installed
+your user must be able to use docker without sudo (join the docker group!)
+clone this repo to your disk
+run: bundle install
+run: test_player_against rranshous/wog_player
+
+after some short instructions you'll begin to see the this bot play
+a game against the bot rranshous/wog_player
+
+both players act randomly so it will be a slow game
+(for more amusing games check out rranshous/wog_player_attack)

@@ -1,0 +1,14 @@
+GIT
+  remote: git@github.com:rranshous/war_of_game.git
+  revision: c6bae7bb7305aecc08bbfdd3651089e5ae2e1734
+  specs:
+    wog (0.1.1)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  wog!
